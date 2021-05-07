@@ -1,0 +1,2 @@
+# GraphMixer
+MLPMixer for graphs
